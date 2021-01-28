@@ -1,2 +1,10 @@
-# Analysis-of-2048-Minimax-Agent
-Project includes the analysis of an existing artificial intelligence project. Project is about solving the puzzle with minimax agent.
+﻿# Minimax Agent
+
+Program solve the 2048 puzzle by using the minimax algorithm. 
+
+
+# Conclusion
+
+In report, you can see the analysis of 2048 minimax agent in detailed way.
+
+
