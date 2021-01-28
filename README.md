@@ -1,6 +1,6 @@
-﻿# Minimax Agent
+# Minimax Agent
 
-Program solve the 2048 puzzle by using the minimax algorithm. 
+Program solves the 2048 puzzle by using the minimax algorithm. 
 
 
 # Conclusion
